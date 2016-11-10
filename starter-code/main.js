@@ -4,7 +4,6 @@ var cardTwo = 'king';
 var cardThree = 'queen';
 var cardFour = 'queen';
 
-//  **** Checking my Variables ***
 //console.log('cardOne =' + ' ' + cardOne)
 //console.log('cardTwo =' + ' ' + cardTwo)
 //console.log('cardThree =' + ' ' + cardThree)
