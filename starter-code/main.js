@@ -8,3 +8,9 @@ var cardFour = 'queen';
 //console.log('cardTwo =' + ' ' + cardTwo)
 //console.log('cardThree =' + ' ' + cardThree)
 //console.log('cardFour =' + ' ' + cardFour)
+if (cardTwo === cardThree) {
+  alert('You Found A Match!');
+}
+else {
+  alert('Sorry Try Again.')
+}
